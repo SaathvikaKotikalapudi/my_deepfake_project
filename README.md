@@ -21,7 +21,7 @@ With the rapid advancements in generative adversarial networks (GANs) and diffus
 ├── FINAL_DATASET.csv         # Metadata tracking file
 ├── .gitignore                # Prevents heavy media tracking
 └── README.md
-📊 Dataset Configuration
+# 📊 Dataset Configuration
 ⚠️ Note: The dataset/ directory and FINAL_DATASET.csv are omitted from this repository due to GitHub storage limitations.
 
 To reproduce the training results, download your image/video corpus and structure it locally as follows:
@@ -29,7 +29,7 @@ To reproduce the training results, download your image/video corpus and structur
 - Place training samples in dataset/train/ split into REAL and FAKE subdirectories.
 
 - Place validation samples in dataset/test/ split into REAL and FAKE subdirectories.
-🛠️ Tech Stack & Dependencies
+# 🛠️ Tech Stack & Dependencies
 Languages: Python
 
 Frameworks: PyTorch / TensorFlow (Keras)
